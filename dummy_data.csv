@@ -1,0 +1,1001 @@
+Age,Income,Gender,Education,PurchaseAmount,Membership,Churn
+56,35903.31,Male,PhD,739.87,Platinum,1
+69,63051.95,Female,Bachelor,490.69,Bronze,0
+46,48654.74,Other,Bachelor,233.85,Silver,0
+32,38666.19,Male,Bachelor,25.9,Silver,0
+60,50301.41,Female,PhD,493.74,Gold,0
+25,43776.78,Female,PhD,243.57,Bronze,0
+38,85307.12,Other,Bachelor,1376.53,Silver,1
+56,73224.6,Female,PhD,390.43,Platinum,0
+36,59880.41,Male,PhD,1403.81,Bronze,0
+40,82199.16,Female,PhD,124.54,Silver,0
+28,61160.52,Male,Bachelor,646.81,Bronze,0
+28,47080.74,Female,Bachelor,480.19,Platinum,0
+41,82846.86,Other,Bachelor,672.4,Silver,0
+53,68083.65,Male,PhD,120.82,Gold,0
+57,44441.31,Female,Bachelor,546.8,Gold,0
+41,57144.92,Female,PhD,344.62,Bronze,0
+20,46865.73,Female,High School,679.0,Platinum,0
+39,39258.0,Male,PhD,198.04,Silver,0
+19,73892.66,Male,Master,1103.9,Platinum,1
+41,88641.25,Male,Bachelor,44.03,Silver,1
+61,39021.49,Other,Bachelor,823.02,Bronze,1
+47,68444.54,Other,Master,987.79,Silver,0
+55,50240.36,Male,PhD,849.82,Platinum,0
+19,52693.12,Female,High School,359.46,Platinum,0
+38,51114.09,Other,Master,288.47,Bronze,0
+50,47040.14,Male,Master,2794.64,Platinum,0
+29,60727.82,Female,PhD,130.14,Silver,0
+39,47535.75,Other,Bachelor,395.79,Bronze,0
+61,64056.85,Female,PhD,555.36,Silver,0
+42,59246.43,Female,Master,603.43,Platinum,1
+66,56415.78,Female,Master,114.09,Bronze,0
+44,46386.55,Female,Bachelor,530.65,Silver,1
+59,51348.43,Other,Bachelor,852.89,Platinum,0
+45,71330.87,Other,Bachelor,25.66,Platinum,0
+33,67513.76,Other,PhD,1212.5,Gold,0
+32,45336.67,Male,Bachelor,14.97,Platinum,0
+64,61489.98,Other,Master,220.01,Silver,1
+68,71270.81,Female,Master,7.97,Bronze,1
+61,34958.92,Other,High School,40.14,Gold,0
+69,68150.4,Female,PhD,1210.51,Platinum,0
+20,50060.64,Male,High School,219.14,Platinum,1
+54,68558.98,Female,Master,276.49,Platinum,0
+68,48551.11,Female,High School,121.26,Silver,1
+24,32926.77,Female,Master,454.53,Gold,0
+38,35586.86,Male,High School,451.69,Silver,0
+26,60721.27,Other,Bachelor,232.77,Gold,0
+56,63895.84,Other,High School,202.51,Bronze,0
+35,46435.25,Male,Bachelor,1081.26,Silver,0
+21,69578.89,Female,Bachelor,241.67,Silver,0
+42,35077.2,Other,PhD,340.12,Bronze,0
+31,59008.8,Male,Bachelor,166.55,Gold,0
+67,41834.76,Other,Bachelor,772.69,Platinum,0
+26,50222.46,Male,High School,253.29,Bronze,0
+43,60710.98,Female,Master,360.37,Platinum,0
+19,47093.8,Other,PhD,146.08,Platinum,0
+37,54231.67,Male,Bachelor,2197.44,Bronze,0
+45,75094.39,Other,PhD,172.3,Gold,1
+64,51346.62,Other,High School,736.45,Platinum,1
+24,72535.38,Other,Bachelor,278.87,Bronze,0
+61,43054.4,Other,High School,115.47,Silver,0
+25,67947.06,Male,PhD,804.02,Silver,1
+64,81623.53,Female,High School,202.94,Silver,1
+52,22925.33,Male,PhD,1001.96,Bronze,0
+31,48046.57,Male,High School,1234.07,Silver,0
+34,68656.08,Male,PhD,982.43,Platinum,0
+53,56954.32,Female,Master,17.82,Silver,0
+67,65567.19,Other,High School,774.11,Silver,0
+57,50940.22,Other,High School,264.95,Platinum,0
+21,61298.85,Other,Master,1034.64,Silver,1
+19,57664.84,Female,Master,507.99,Platinum,1
+23,77516.73,Other,High School,896.81,Silver,0
+59,63816.31,Female,Master,346.01,Platinum,0
+21,65064.04,Other,Bachelor,382.89,Silver,0
+46,53821.85,Other,PhD,77.97,Platinum,1
+35,52685.91,Male,PhD,766.21,Bronze,0
+43,53511.63,Female,PhD,271.84,Platinum,0
+61,65916.78,Male,Bachelor,346.65,Silver,0
+51,53685.23,Male,Master,768.79,Silver,0
+27,64346.62,Male,Master,456.7,Gold,0
+53,91131.01,Female,High School,112.26,Platinum,0
+31,73066.87,Female,Master,446.08,Bronze,0
+48,55109.65,Other,High School,261.81,Platinum,1
+65,78018.21,Male,Bachelor,316.99,Platinum,1
+32,53878.87,Other,PhD,14.36,Bronze,1
+25,29428.13,Male,PhD,117.88,Platinum,0
+31,44878.71,Female,PhD,164.97,Bronze,0
+40,31938.12,Female,Master,624.07,Bronze,0
+57,54727.3,Female,High School,5.78,Platinum,1
+38,60276.28,Male,High School,262.78,Platinum,0
+33,85146.56,Female,Bachelor,1288.69,Silver,0
+62,64903.91,Male,Master,59.32,Silver,0
+35,56713.49,Other,Bachelor,363.27,Gold,0
+64,72441.08,Male,High School,772.11,Gold,0
+41,26832.97,Other,High School,1428.26,Platinum,0
+43,63534.22,Male,PhD,686.74,Bronze,0
+42,71562.98,Other,Master,637.49,Gold,0
+62,37821.21,Female,High School,875.75,Platinum,1
+58,77156.31,Other,PhD,295.48,Gold,0
+46,65077.45,Female,Master,819.55,Bronze,0
+32,53770.68,Female,Bachelor,4.0,Platinum,0
+62,69491.73,Other,Master,1292.22,Bronze,1
+18,94060.39,Male,Master,292.87,Platinum,0
+42,62727.99,Male,High School,403.02,Gold,1
+24,63723.31,Male,High School,147.11,Silver,0
+26,53109.59,Male,Master,678.43,Gold,1
+41,47252.33,Male,High School,39.87,Gold,1
+18,72455.04,Female,High School,1030.35,Silver,0
+61,47158.74,Male,High School,880.47,Silver,0
+25,61073.49,Female,PhD,121.71,Platinum,0
+41,52835.14,Female,PhD,828.59,Platinum,0
+28,67184.7,Female,Master,771.73,Bronze,0
+68,65004.93,Other,High School,500.13,Bronze,0
+34,75563.1,Other,PhD,233.82,Gold,0
+25,52349.75,Female,Master,158.38,Silver,0
+52,55951.88,Other,High School,131.84,Bronze,0
+52,45318.54,Male,Bachelor,191.81,Gold,0
+50,53335.6,Male,High School,1169.41,Silver,0
+22,65659.51,Female,High School,40.41,Platinum,0
+59,71354.83,Male,PhD,882.67,Gold,0
+56,46167.52,Female,Master,214.54,Platinum,0
+58,73044.09,Female,Master,368.65,Bronze,1
+45,80334.57,Male,PhD,791.12,Bronze,0
+24,66201.52,Other,High School,1078.71,Silver,0
+26,88151.94,Male,Bachelor,211.39,Gold,0
+25,48393.16,Male,High School,309.8,Platinum,1
+29,41330.18,Female,High School,267.66,Silver,1
+51,33319.2,Female,Bachelor,6.67,Bronze,1
+50,82440.66,Female,PhD,175.45,Bronze,0
+65,69815.48,Female,Master,307.34,Gold,0
+40,59166.23,Other,PhD,264.74,Platinum,0
+41,64199.53,Other,PhD,639.94,Gold,0
+54,43117.66,Other,High School,242.91,Platinum,1
+52,96686.28,Female,Master,336.06,Platinum,0
+61,61938.32,Female,Master,280.72,Gold,0
+57,61640.92,Female,PhD,674.74,Silver,0
+39,70886.5,Other,Bachelor,993.79,Gold,1
+44,67215.14,Female,PhD,379.53,Gold,0
+52,63358.26,Male,Bachelor,778.97,Bronze,0
+18,48142.88,Male,Master,176.05,Bronze,0
+52,67072.03,Female,PhD,389.76,Gold,0
+54,88230.37,Male,High School,211.74,Gold,0
+64,80181.3,Male,PhD,267.39,Bronze,1
+31,83897.8,Other,Master,659.16,Platinum,0
+20,52331.76,Female,High School,1067.11,Gold,0
+18,45155.93,Female,High School,64.77,Silver,0
+22,58113.2,Other,Bachelor,503.44,Silver,0
+43,60835.87,Male,High School,436.31,Silver,1
+31,76412.87,Male,High School,63.02,Gold,0
+56,34613.03,Female,PhD,119.06,Platinum,0
+44,82943.25,Male,Master,186.26,Platinum,1
+26,57629.88,Other,Bachelor,91.32,Bronze,0
+32,53596.78,Other,PhD,139.68,Gold,0
+32,44818.43,Female,High School,155.71,Platinum,0
+43,35177.15,Other,High School,204.49,Gold,0
+59,72347.56,Other,Bachelor,691.93,Bronze,0
+30,61099.77,Female,Master,424.21,Bronze,0
+68,40650.59,Other,Bachelor,2143.24,Bronze,0
+49,40573.82,Other,PhD,267.85,Silver,0
+56,54963.23,Other,Bachelor,700.94,Gold,0
+66,85035.32,Male,High School,1025.79,Bronze,0
+69,56106.13,Female,PhD,568.12,Gold,1
+49,37452.86,Female,High School,265.4,Silver,0
+21,56313.85,Female,Master,700.39,Silver,0
+47,55909.15,Male,High School,113.87,Bronze,0
+54,19546.7,Male,High School,198.42,Bronze,0
+40,59185.58,Female,Bachelor,395.58,Platinum,0
+56,56535.98,Male,High School,428.31,Gold,0
+62,70443.1,Female,PhD,11.2,Bronze,0
+32,87734.34,Male,PhD,1451.25,Platinum,0
+60,76898.48,Other,Master,596.4,Gold,0
+46,55966.67,Other,PhD,342.3,Bronze,1
+53,43402.11,Female,Bachelor,1352.48,Platinum,1
+30,98600.4,Male,Master,289.1,Platinum,0
+49,60888.28,Male,PhD,1967.02,Gold,0
+24,60208.94,Other,Bachelor,359.01,Platinum,0
+68,59638.12,Other,PhD,60.68,Gold,0
+39,62971.27,Male,PhD,723.66,Gold,0
+45,57834.59,Male,High School,568.0,Gold,1
+19,51395.07,Male,PhD,741.37,Silver,0
+59,51797.12,Male,PhD,1512.5,Platinum,0
+62,59508.7,Male,Bachelor,749.15,Gold,0
+23,51848.63,Male,Bachelor,472.52,Bronze,0
+45,49307.31,Female,High School,973.54,Silver,1
+45,61596.45,Male,PhD,559.27,Silver,0
+61,56175.34,Other,High School,262.22,Platinum,1
+61,82559.89,Female,PhD,1084.11,Gold,0
+37,20235.45,Male,Master,125.45,Platinum,0
+47,76372.6,Other,Master,627.0,Silver,1
+28,78691.28,Female,High School,1066.69,Gold,0
+45,28899.15,Other,High School,657.11,Bronze,1
+42,54859.69,Male,High School,597.47,Gold,0
+56,54428.39,Male,Bachelor,698.45,Silver,0
+50,38887.32,Male,Bachelor,312.8,Bronze,1
+18,48332.75,Male,Bachelor,1036.41,Gold,0
+44,43341.36,Female,High School,113.72,Bronze,1
+69,86284.06,Female,PhD,68.13,Bronze,1
+30,74035.18,Other,Master,168.09,Silver,0
+58,79073.33,Male,High School,379.19,Bronze,0
+20,70825.08,Other,Bachelor,357.25,Platinum,0
+56,43064.22,Female,Bachelor,859.07,Silver,0
+23,52132.2,Male,High School,259.23,Platinum,0
+25,67340.62,Male,High School,331.16,Bronze,0
+44,41668.08,Female,Bachelor,6.73,Platinum,0
+26,70694.98,Female,PhD,263.6,Gold,0
+54,56395.12,Female,Bachelor,521.74,Bronze,1
+50,54377.69,Female,Bachelor,7.81,Gold,1
+68,70664.4,Female,High School,164.86,Platinum,0
+59,66663.95,Male,PhD,116.57,Gold,0
+61,54585.51,Female,Bachelor,21.45,Bronze,1
+41,77389.95,Male,Bachelor,326.25,Gold,0
+32,43784.05,Male,Master,100.28,Platinum,0
+49,69239.03,Female,High School,679.5,Platinum,1
+49,68896.52,Female,Master,941.7,Platinum,0
+41,55356.8,Male,Master,394.37,Bronze,0
+58,64892.0,Female,Bachelor,2000.63,Platinum,1
+69,41233.3,Female,High School,299.35,Bronze,1
+66,73860.41,Female,PhD,360.12,Gold,0
+66,57226.47,Other,Bachelor,2264.93,Platinum,0
+69,52159.15,Male,PhD,131.69,Gold,0
+29,75735.14,Other,PhD,1428.38,Silver,0
+56,49434.84,Female,High School,21.89,Gold,0
+19,38873.08,Other,Master,295.64,Silver,0
+20,36650.56,Female,High School,36.29,Gold,1
+66,69090.15,Other,PhD,653.25,Bronze,0
+54,40793.56,Female,Bachelor,468.77,Gold,0
+66,86321.91,Other,PhD,613.17,Bronze,0
+34,28771.06,Other,Bachelor,234.59,Bronze,0
+66,85446.85,Other,Bachelor,230.61,Platinum,0
+19,63165.26,Male,High School,23.19,Bronze,0
+19,58549.3,Other,PhD,215.35,Silver,0
+45,51826.21,Male,Master,1324.57,Platinum,0
+40,65987.04,Female,PhD,238.39,Platinum,0
+54,59435.48,Other,PhD,890.02,Gold,1
+49,76549.53,Female,Master,923.61,Bronze,0
+50,61713.41,Female,High School,233.6,Bronze,0
+18,62254.53,Other,PhD,499.82,Silver,1
+36,54545.82,Male,PhD,50.12,Gold,1
+19,59145.82,Other,Bachelor,54.73,Gold,0
+61,64617.03,Female,PhD,24.94,Platinum,0
+43,34347.47,Female,Master,434.96,Platinum,1
+49,39777.22,Other,Bachelor,277.62,Platinum,1
+23,71148.96,Male,High School,397.07,Silver,0
+49,62562.98,Male,Bachelor,368.1,Silver,0
+21,57240.25,Female,Master,215.55,Platinum,0
+28,60276.51,Female,Master,565.78,Gold,0
+34,65213.73,Male,Bachelor,710.45,Silver,0
+55,51903.6,Other,High School,7.37,Gold,0
+41,48325.43,Female,Bachelor,116.12,Gold,1
+22,62937.68,Male,High School,624.55,Bronze,0
+69,45324.41,Female,Bachelor,244.39,Platinum,0
+51,66123.79,Other,Master,543.07,Bronze,0
+23,34461.25,Male,PhD,213.06,Platinum,0
+39,75437.33,Female,PhD,247.77,Platinum,0
+28,67088.96,Other,High School,86.39,Gold,0
+65,63840.45,Female,High School,149.36,Platinum,0
+33,74740.36,Other,High School,464.96,Gold,0
+50,84982.12,Other,Master,283.84,Gold,1
+26,75215.55,Male,Bachelor,744.28,Platinum,0
+23,32386.89,Other,Master,957.25,Gold,0
+33,40806.35,Female,PhD,390.06,Gold,1
+46,50627.72,Other,High School,709.96,Gold,0
+20,60391.37,Other,Bachelor,183.29,Silver,0
+37,67764.89,Male,PhD,268.05,Gold,1
+53,49113.84,Other,PhD,623.75,Silver,0
+36,62801.5,Other,PhD,244.05,Silver,0
+43,48669.26,Female,Master,443.98,Gold,0
+20,50827.23,Male,High School,102.51,Gold,1
+36,38900.08,Male,PhD,457.86,Silver,0
+37,46151.5,Male,High School,988.49,Silver,0
+49,39724.73,Other,Master,1014.91,Gold,0
+24,45361.9,Male,PhD,644.3,Gold,0
+69,75804.63,Other,Master,684.73,Platinum,0
+58,45759.02,Other,Master,408.14,Silver,0
+50,99485.73,Female,High School,439.34,Silver,0
+57,67399.77,Female,PhD,71.73,Platinum,0
+56,62772.54,Female,Master,293.37,Silver,0
+35,47124.63,Female,PhD,299.62,Bronze,0
+57,70504.65,Female,High School,1591.0,Silver,1
+18,51365.43,Other,Master,282.01,Platinum,0
+28,61830.15,Other,High School,398.52,Bronze,1
+45,98401.27,Male,PhD,380.98,Gold,1
+42,58559.1,Other,PhD,506.35,Platinum,0
+67,77239.1,Other,High School,689.63,Platinum,0
+40,49452.35,Female,Bachelor,127.47,Gold,1
+48,59475.17,Other,Master,376.16,Platinum,0
+47,86562.01,Female,PhD,874.11,Silver,1
+59,50595.49,Male,PhD,310.99,Gold,0
+52,87186.73,Male,Master,163.18,Platinum,0
+24,70616.28,Other,High School,531.68,Gold,0
+33,51563.0,Male,High School,867.98,Gold,0
+43,69486.12,Other,High School,32.61,Gold,1
+65,74588.32,Male,Bachelor,749.82,Bronze,0
+69,69327.15,Female,Bachelor,862.0,Platinum,0
+66,36446.63,Female,PhD,309.51,Bronze,1
+19,49092.94,Female,High School,2046.34,Platinum,0
+18,56287.22,Female,Master,772.55,Silver,0
+65,58883.5,Other,PhD,742.86,Silver,0
+29,69310.08,Male,Master,688.84,Silver,0
+22,62665.52,Other,PhD,81.62,Platinum,0
+54,39969.83,Female,Bachelor,122.46,Gold,0
+49,65702.97,Other,PhD,311.8,Gold,0
+26,69158.79,Male,Bachelor,153.27,Bronze,0
+58,68396.86,Other,PhD,268.28,Bronze,0
+52,76211.71,Male,High School,1096.7,Silver,0
+36,72508.83,Other,Master,869.57,Bronze,0
+65,66887.7,Male,High School,497.18,Platinum,0
+33,58947.51,Male,PhD,976.39,Platinum,0
+20,35085.59,Female,PhD,765.71,Bronze,0
+37,66444.27,Male,PhD,280.17,Bronze,1
+41,63115.32,Female,Bachelor,112.24,Bronze,0
+50,64073.68,Female,Master,360.98,Bronze,0
+41,40848.77,Female,Master,666.34,Silver,0
+69,43784.15,Other,PhD,286.72,Silver,0
+28,75797.29,Other,PhD,549.46,Bronze,0
+66,59406.67,Other,Bachelor,49.54,Platinum,0
+25,70222.51,Other,High School,689.17,Silver,0
+53,60424.78,Male,High School,837.56,Platinum,0
+55,60446.34,Male,Master,613.51,Gold,1
+57,74074.26,Other,Bachelor,1709.63,Platinum,0
+37,52259.33,Male,PhD,876.23,Bronze,0
+52,61441.81,Male,Master,1167.01,Gold,1
+65,53065.87,Female,Bachelor,1355.81,Silver,0
+42,53482.56,Female,High School,808.1,Silver,0
+52,55362.42,Female,Bachelor,560.83,Gold,0
+42,63332.01,Female,High School,2.87,Platinum,0
+46,52818.77,Male,Bachelor,313.52,Silver,0
+35,78836.34,Other,Master,423.34,Bronze,0
+63,46580.89,Male,High School,181.22,Gold,0
+35,57196.93,Male,Master,191.44,Bronze,0
+19,53404.03,Male,Master,1624.14,Gold,0
+52,81704.67,Female,High School,1111.48,Silver,1
+33,62948.32,Female,High School,945.83,Platinum,0
+58,75477.67,Female,PhD,260.45,Gold,0
+53,37716.59,Other,PhD,6.9,Gold,0
+50,64005.75,Male,PhD,41.81,Bronze,0
+21,73344.46,Other,Master,187.13,Silver,1
+50,61234.26,Female,Master,7.93,Bronze,0
+31,75982.21,Other,PhD,8.65,Silver,0
+38,52240.67,Male,Master,1242.07,Bronze,0
+65,81140.21,Male,Master,612.36,Gold,0
+37,94483.47,Female,High School,184.78,Bronze,0
+25,54557.42,Female,High School,71.15,Platinum,0
+24,53317.46,Other,Master,358.35,Silver,0
+20,81800.77,Female,PhD,2.68,Silver,0
+34,83693.58,Female,Bachelor,1393.66,Gold,0
+50,52157.1,Male,PhD,267.91,Silver,1
+65,53697.2,Female,Bachelor,257.36,Platinum,0
+29,55773.23,Female,PhD,247.63,Bronze,0
+68,39833.24,Male,High School,35.92,Gold,0
+39,46220.22,Male,Master,508.5,Platinum,0
+39,44937.89,Other,Master,660.26,Silver,0
+63,48483.04,Female,High School,563.7,Silver,1
+47,59479.73,Male,Bachelor,74.5,Platinum,0
+55,63513.22,Other,Bachelor,432.37,Bronze,1
+55,83257.51,Other,Bachelor,421.39,Bronze,0
+62,45024.69,Female,High School,1014.04,Gold,0
+68,74764.84,Female,Bachelor,238.31,Silver,0
+25,56790.17,Other,High School,232.2,Platinum,0
+44,59258.04,Male,PhD,481.86,Bronze,0
+44,70122.29,Other,PhD,501.3,Gold,0
+51,43159.17,Female,High School,316.77,Silver,1
+38,65736.15,Male,Master,292.65,Silver,1
+47,62496.78,Male,PhD,340.76,Gold,0
+50,67386.77,Other,Bachelor,986.8,Gold,0
+45,64337.53,Female,High School,309.17,Bronze,0
+64,96829.5,Other,Bachelor,1406.14,Platinum,0
+50,50433.9,Other,Bachelor,350.59,Silver,0
+22,52035.05,Other,Master,1489.94,Platinum,0
+65,50652.89,Male,Bachelor,894.38,Silver,0
+36,51667.84,Male,Master,225.05,Silver,0
+21,50439.19,Female,PhD,996.23,Platinum,0
+52,77835.25,Female,High School,58.3,Gold,0
+66,81307.56,Other,Bachelor,1295.45,Bronze,0
+34,51438.81,Other,High School,499.35,Silver,0
+61,47514.67,Other,Bachelor,27.96,Gold,0
+45,67071.23,Female,High School,516.77,Silver,0
+47,51716.65,Male,Bachelor,1829.61,Bronze,0
+46,69493.98,Male,Bachelor,36.18,Silver,0
+63,63043.85,Other,Bachelor,404.49,Bronze,0
+23,37263.84,Other,Bachelor,688.76,Bronze,0
+52,83212.58,Other,Bachelor,831.05,Silver,0
+58,86938.17,Other,Bachelor,267.07,Silver,0
+54,50808.17,Female,Bachelor,114.18,Bronze,0
+41,54184.48,Male,Bachelor,21.63,Gold,0
+46,64287.98,Other,Bachelor,433.42,Platinum,0
+66,65016.85,Female,High School,301.57,Bronze,0
+63,69878.16,Other,Master,1485.47,Silver,0
+48,90153.07,Other,Bachelor,31.26,Silver,1
+52,57345.79,Male,Master,578.22,Gold,0
+50,48025.54,Other,Bachelor,12.64,Platinum,1
+69,39310.21,Male,Bachelor,94.03,Bronze,0
+38,49036.05,Male,High School,302.18,Bronze,0
+49,59503.1,Male,PhD,303.37,Platinum,0
+40,86918.37,Female,PhD,578.7,Bronze,0
+50,52235.83,Female,High School,1205.16,Platinum,0
+20,63356.82,Male,Master,509.48,Silver,0
+35,59753.66,Other,PhD,1534.53,Platinum,0
+42,77825.9,Male,High School,1066.91,Bronze,0
+59,97903.99,Other,High School,439.14,Platinum,0
+48,52036.97,Male,PhD,897.26,Gold,0
+20,52658.41,Other,Master,514.42,Silver,0
+57,75662.41,Female,High School,40.91,Silver,0
+63,70228.37,Other,Bachelor,674.62,Platinum,0
+41,87700.61,Male,Master,49.86,Bronze,1
+67,68758.92,Female,Master,450.8,Gold,1
+49,54610.62,Other,PhD,606.41,Silver,0
+64,68859.82,Other,PhD,34.42,Silver,0
+39,76630.55,Other,Bachelor,131.2,Bronze,1
+40,72307.23,Other,High School,1236.52,Bronze,0
+19,67609.11,Other,PhD,478.97,Gold,0
+44,76000.12,Female,PhD,141.37,Platinum,1
+59,77539.43,Female,Master,586.69,Bronze,0
+19,80732.38,Female,PhD,454.13,Platinum,0
+43,69730.65,Female,PhD,348.15,Gold,0
+34,57493.23,Male,PhD,1868.76,Platinum,0
+57,62200.71,Female,PhD,575.14,Silver,1
+50,78097.63,Other,Master,235.35,Platinum,0
+26,47745.96,Other,Bachelor,804.9,Gold,0
+60,65530.1,Female,Bachelor,1079.6,Gold,0
+65,54099.92,Other,High School,66.89,Gold,0
+56,60431.17,Female,PhD,111.92,Platinum,0
+46,79176.78,Other,Master,121.82,Silver,0
+59,62866.49,Male,High School,587.55,Bronze,1
+43,60696.55,Male,High School,461.96,Silver,0
+52,39602.16,Female,Bachelor,482.47,Platinum,0
+67,71193.8,Female,Master,1413.19,Platinum,0
+42,69682.26,Female,Master,747.86,Bronze,0
+41,92448.82,Other,Master,68.45,Platinum,1
+30,55383.33,Female,Bachelor,213.48,Gold,0
+24,63287.25,Male,Bachelor,285.81,Gold,0
+53,63740.76,Other,Bachelor,252.06,Gold,0
+62,83661.8,Female,Bachelor,553.28,Gold,0
+37,58570.57,Other,Bachelor,1112.32,Gold,0
+18,64185.32,Other,PhD,182.68,Platinum,0
+25,69118.45,Female,PhD,401.34,Bronze,0
+63,62799.14,Other,Master,778.92,Bronze,1
+33,53303.5,Male,High School,269.11,Gold,0
+31,62911.35,Male,Master,92.03,Platinum,1
+29,76104.48,Other,High School,322.13,Silver,0
+68,44602.27,Female,Bachelor,28.4,Silver,0
+40,61994.55,Other,High School,1426.97,Platinum,0
+32,49498.19,Male,Master,38.88,Gold,0
+45,77925.7,Other,Master,288.53,Bronze,0
+51,37152.2,Other,High School,377.38,Platinum,0
+19,51616.17,Male,PhD,2110.08,Silver,0
+49,65658.18,Other,Bachelor,90.77,Silver,1
+40,83482.86,Other,Bachelor,60.76,Silver,0
+39,59013.75,Female,Master,4.37,Gold,0
+68,51672.01,Female,PhD,84.55,Silver,1
+42,88217.36,Male,High School,116.14,Platinum,0
+39,38279.79,Male,Bachelor,497.91,Platinum,0
+39,27017.91,Male,PhD,124.04,Silver,0
+66,66600.22,Female,Bachelor,10.37,Platinum,0
+69,52469.19,Male,PhD,876.13,Silver,0
+59,44681.51,Male,PhD,227.53,Silver,1
+23,70625.35,Male,Master,218.24,Bronze,0
+32,63657.01,Female,Bachelor,180.11,Gold,0
+60,51538.82,Other,High School,1851.96,Gold,0
+54,40795.43,Male,Master,93.23,Bronze,0
+50,73086.86,Other,Master,1142.56,Bronze,0
+25,69753.02,Male,High School,749.85,Gold,0
+61,58512.36,Other,Master,39.78,Silver,0
+61,87699.55,Female,PhD,2161.09,Silver,0
+22,43948.73,Female,PhD,158.29,Gold,0
+56,37117.12,Male,Bachelor,51.89,Silver,0
+21,49621.38,Other,Bachelor,883.97,Bronze,0
+23,59316.21,Female,High School,613.24,Silver,0
+62,63650.09,Male,Bachelor,480.15,Silver,0
+49,56381.46,Male,PhD,84.79,Platinum,1
+69,65280.83,Female,High School,325.52,Platinum,0
+47,41226.91,Female,High School,758.33,Platinum,0
+64,81656.47,Male,Bachelor,180.93,Silver,0
+52,58767.73,Other,PhD,186.76,Gold,0
+57,76759.44,Other,High School,1.57,Bronze,1
+69,65140.88,Other,PhD,95.73,Silver,0
+33,66851.3,Male,PhD,1041.35,Gold,1
+30,68546.51,Female,PhD,291.47,Silver,0
+67,66715.63,Male,Bachelor,2074.97,Bronze,0
+59,69640.84,Female,Master,251.85,Silver,1
+47,79937.29,Other,Master,627.96,Bronze,0
+36,62947.82,Other,High School,165.59,Silver,0
+34,70635.06,Female,PhD,226.13,Bronze,0
+36,58653.96,Female,Bachelor,105.81,Silver,1
+45,81601.76,Male,PhD,213.14,Bronze,1
+43,49854.12,Other,PhD,396.19,Platinum,0
+54,87014.11,Male,Bachelor,2400.16,Silver,1
+43,59397.63,Male,Master,545.62,Silver,0
+40,38538.37,Male,PhD,111.1,Gold,0
+26,61921.57,Other,PhD,23.0,Gold,0
+29,49784.23,Male,Master,67.54,Bronze,0
+18,72609.65,Male,Bachelor,413.4,Silver,0
+18,50210.64,Male,High School,724.43,Bronze,0
+64,53307.25,Male,Master,1410.21,Platinum,0
+51,31656.89,Male,High School,7.97,Gold,0
+49,53215.41,Male,High School,369.87,Bronze,0
+65,23641.81,Other,Master,318.26,Bronze,0
+42,36241.46,Male,PhD,533.64,Gold,0
+57,71406.22,Female,High School,410.01,Silver,0
+62,71787.0,Male,High School,580.84,Bronze,0
+18,66381.86,Male,Bachelor,536.59,Gold,0
+33,45495.36,Other,PhD,62.22,Silver,1
+56,59284.33,Other,High School,804.01,Platinum,0
+22,59945.96,Female,Bachelor,65.76,Gold,0
+39,42624.53,Female,PhD,599.54,Bronze,1
+46,82550.97,Other,Master,269.05,Platinum,0
+20,73160.43,Other,Master,360.62,Silver,1
+29,56685.54,Male,Bachelor,1168.06,Silver,0
+43,60403.29,Other,Master,1103.11,Gold,0
+33,63125.74,Female,High School,851.48,Gold,0
+68,29373.98,Male,PhD,356.83,Gold,0
+54,56292.34,Female,High School,666.36,Silver,0
+39,49770.24,Male,High School,359.64,Platinum,0
+46,44975.7,Other,Master,1018.6,Silver,0
+31,55783.5,Female,High School,257.73,Bronze,1
+45,86965.3,Male,Master,1757.22,Silver,0
+22,69612.64,Male,PhD,1346.5,Bronze,0
+64,51432.32,Other,PhD,676.63,Platinum,0
+66,68588.74,Other,High School,163.85,Gold,0
+47,80990.33,Other,Bachelor,70.58,Gold,1
+63,73869.51,Female,Master,964.49,Silver,0
+69,60894.46,Male,Master,90.34,Gold,0
+22,50295.95,Other,High School,962.97,Platinum,0
+29,70473.35,Female,Master,337.42,Gold,0
+33,65902.28,Female,Master,260.91,Silver,1
+43,73427.9,Female,Bachelor,1167.51,Platinum,0
+43,69527.58,Other,Bachelor,462.98,Bronze,0
+65,75743.29,Other,High School,429.74,Silver,1
+38,51971.47,Male,Bachelor,409.09,Bronze,1
+56,79760.91,Male,High School,231.95,Platinum,0
+53,62963.99,Other,PhD,770.06,Silver,0
+50,91128.91,Female,High School,145.71,Silver,0
+47,49662.18,Female,PhD,1397.58,Platinum,0
+54,86039.46,Female,High School,1122.09,Gold,1
+40,62968.66,Male,Master,205.85,Silver,0
+27,50228.73,Female,Bachelor,653.67,Silver,0
+22,52741.71,Male,PhD,425.75,Bronze,0
+53,55194.79,Male,High School,205.98,Gold,0
+51,66362.49,Female,Bachelor,2233.65,Bronze,0
+69,67842.53,Female,High School,12.78,Bronze,0
+48,51394.5,Other,Bachelor,145.61,Gold,0
+27,59634.68,Other,Bachelor,367.06,Gold,0
+36,92134.06,Female,High School,369.02,Platinum,0
+49,85913.15,Male,PhD,444.5,Gold,0
+18,66544.86,Male,PhD,696.51,Silver,0
+22,60570.05,Male,Master,488.39,Gold,0
+62,61800.47,Male,Bachelor,458.5,Platinum,0
+21,69202.77,Male,Master,27.5,Platinum,0
+33,44658.11,Other,Master,236.23,Platinum,0
+41,56139.35,Female,High School,132.02,Gold,0
+33,34971.24,Other,High School,154.19,Gold,0
+19,65988.35,Male,High School,404.1,Bronze,1
+66,69707.94,Male,Bachelor,111.26,Bronze,0
+45,52752.2,Male,High School,174.03,Silver,0
+49,83609.8,Male,High School,135.3,Bronze,1
+44,41613.52,Female,Bachelor,1483.12,Silver,0
+37,38034.38,Male,Bachelor,1447.18,Platinum,0
+41,63366.78,Female,PhD,470.73,Bronze,0
+29,75706.47,Male,High School,1291.96,Gold,1
+67,85258.92,Female,High School,770.45,Bronze,0
+52,53116.74,Other,High School,445.74,Silver,0
+50,76180.21,Male,PhD,3.23,Bronze,0
+50,59422.37,Female,High School,740.34,Platinum,1
+68,57410.59,Other,PhD,606.15,Gold,0
+60,73254.9,Male,Master,477.59,Silver,0
+54,69784.84,Male,PhD,714.44,Gold,0
+29,36354.12,Male,Master,359.67,Gold,0
+20,82148.11,Female,High School,608.84,Silver,0
+18,80701.37,Female,Master,1368.01,Gold,0
+50,50616.56,Other,PhD,235.65,Gold,1
+57,65937.05,Female,Bachelor,615.71,Bronze,0
+27,67410.45,Female,Master,322.83,Gold,0
+60,63910.11,Male,Master,561.04,Gold,0
+61,51745.42,Male,High School,719.62,Gold,0
+46,49925.65,Male,PhD,23.26,Gold,0
+30,59616.69,Male,Master,520.08,Silver,0
+29,77590.94,Male,Master,128.57,Platinum,0
+48,68154.0,Male,Master,554.38,Bronze,0
+63,54440.79,Male,Master,315.87,Gold,0
+19,71575.48,Other,Bachelor,742.62,Gold,1
+68,17271.86,Other,PhD,65.85,Silver,1
+67,77231.49,Other,High School,492.18,Platinum,0
+52,33904.29,Other,High School,163.19,Gold,0
+40,54563.39,Male,Bachelor,958.6,Silver,0
+34,43204.95,Other,PhD,1318.21,Bronze,1
+43,40579.78,Male,Master,2813.17,Bronze,0
+25,77412.4,Other,Bachelor,794.84,Gold,1
+46,52984.48,Female,PhD,700.67,Gold,0
+43,65197.56,Other,Master,121.35,Platinum,1
+27,59296.19,Other,Bachelor,204.74,Platinum,1
+43,67155.61,Male,PhD,313.38,Gold,1
+51,61152.33,Other,High School,742.24,Silver,0
+68,40755.12,Female,High School,1232.35,Platinum,0
+58,74944.0,Male,PhD,104.83,Gold,0
+24,52593.65,Male,High School,1277.88,Platinum,0
+21,36651.27,Other,PhD,594.75,Gold,0
+67,53578.27,Male,Master,471.79,Bronze,0
+62,82511.4,Male,PhD,111.47,Gold,0
+28,72753.33,Male,Master,28.56,Bronze,0
+46,54770.22,Male,Bachelor,420.2,Platinum,0
+53,54761.13,Male,PhD,527.08,Gold,0
+42,55175.47,Male,Bachelor,118.36,Platinum,1
+38,91151.22,Female,High School,406.48,Bronze,0
+53,65729.03,Other,Master,970.69,Gold,0
+27,66450.62,Female,PhD,901.1,Platinum,0
+54,75454.25,Male,Bachelor,1311.09,Bronze,1
+26,63581.84,Male,Master,227.76,Platinum,0
+41,56114.37,Other,Master,191.4,Silver,0
+52,57054.75,Female,High School,692.0,Bronze,0
+66,58925.98,Other,High School,282.04,Bronze,0
+52,59441.67,Female,Master,45.81,Bronze,0
+65,70914.44,Male,Master,166.2,Gold,1
+53,60779.19,Other,PhD,271.14,Gold,1
+35,70989.6,Other,Master,173.02,Gold,0
+66,58789.25,Male,PhD,201.89,Silver,0
+56,61179.53,Other,Master,173.91,Silver,0
+49,30026.99,Female,High School,21.19,Bronze,0
+41,73744.92,Female,PhD,506.81,Silver,0
+40,65197.33,Female,Bachelor,454.77,Platinum,0
+49,74970.15,Female,High School,529.77,Bronze,1
+54,16556.17,Male,PhD,106.79,Bronze,1
+29,91325.62,Other,PhD,175.24,Platinum,0
+66,57906.16,Female,Bachelor,483.29,Bronze,0
+30,76622.74,Male,PhD,457.68,Silver,0
+40,44401.41,Other,Master,352.94,Gold,0
+42,69191.61,Other,Bachelor,215.71,Platinum,0
+52,44198.77,Male,High School,1220.53,Silver,0
+58,50643.47,Male,High School,207.58,Platinum,1
+47,88710.47,Female,Master,304.05,Platinum,0
+34,57139.76,Other,High School,566.78,Bronze,0
+66,63261.49,Other,PhD,391.56,Bronze,0
+37,73051.02,Male,PhD,213.0,Silver,0
+65,67435.23,Other,Master,286.04,Platinum,0
+42,62256.28,Female,High School,791.11,Bronze,0
+39,65474.42,Other,High School,162.95,Bronze,0
+30,96051.23,Male,Master,76.72,Platinum,0
+36,59135.72,Male,Bachelor,187.83,Silver,0
+66,63016.49,Female,High School,947.01,Silver,1
+53,75759.82,Female,Bachelor,46.6,Platinum,0
+29,76582.89,Other,High School,2395.51,Silver,0
+58,77805.45,Other,High School,389.36,Bronze,0
+36,69580.95,Male,High School,2094.74,Platinum,0
+29,42854.93,Female,High School,1398.41,Bronze,0
+26,84501.47,Female,PhD,301.48,Gold,1
+24,42804.82,Female,Bachelor,110.63,Gold,1
+45,64539.53,Other,Bachelor,90.09,Silver,0
+31,48685.86,Female,High School,137.21,Gold,0
+48,59037.92,Male,High School,619.17,Bronze,0
+69,64931.44,Male,Bachelor,159.38,Gold,0
+36,64820.36,Other,PhD,208.84,Bronze,0
+64,66328.81,Other,Master,297.81,Silver,0
+33,84205.67,Female,Master,1222.26,Silver,0
+22,66803.01,Other,Bachelor,104.99,Bronze,0
+52,56337.65,Male,High School,2.52,Gold,0
+29,74461.31,Female,High School,30.99,Silver,1
+42,77842.06,Male,PhD,1175.71,Platinum,0
+69,41585.88,Female,Master,521.38,Silver,0
+38,68961.0,Other,PhD,159.44,Gold,0
+53,70517.59,Female,Master,97.52,Platinum,0
+40,55536.55,Female,Bachelor,174.26,Gold,0
+33,80635.6,Male,Master,60.97,Bronze,0
+56,57749.17,Male,PhD,1419.65,Platinum,1
+62,61883.65,Female,PhD,766.72,Gold,0
+59,57403.92,Other,PhD,310.31,Platinum,0
+56,60233.69,Other,Bachelor,1001.1,Gold,0
+31,43555.87,Male,Master,143.48,Platinum,0
+48,38399.24,Other,Master,631.37,Gold,0
+22,83917.58,Male,PhD,969.43,Bronze,1
+52,47295.58,Other,Master,220.63,Platinum,0
+40,45129.11,Female,High School,708.3,Platinum,0
+46,27699.15,Male,High School,174.83,Platinum,0
+60,50415.57,Male,High School,177.52,Platinum,0
+28,40153.65,Female,Master,56.62,Bronze,1
+35,84630.23,Male,Bachelor,289.96,Platinum,1
+64,75147.26,Other,Bachelor,654.13,Silver,0
+29,49677.74,Other,Bachelor,1408.55,Bronze,0
+26,93786.54,Male,Bachelor,462.91,Silver,0
+27,74726.48,Other,High School,994.38,Platinum,0
+61,55127.53,Male,High School,864.38,Gold,1
+34,22508.91,Female,PhD,95.18,Silver,0
+55,94364.14,Male,Master,332.59,Platinum,0
+24,39156.41,Female,Master,62.17,Silver,0
+63,35319.02,Other,Bachelor,573.09,Platinum,1
+30,75338.56,Female,High School,1496.86,Platinum,0
+57,96596.29,Other,Bachelor,73.72,Platinum,0
+59,80764.09,Male,PhD,661.91,Gold,0
+26,68458.64,Other,Master,500.16,Silver,1
+67,68921.32,Male,Master,438.06,Bronze,0
+44,72801.23,Male,Bachelor,247.25,Bronze,0
+19,71383.93,Female,PhD,219.35,Bronze,0
+22,64217.87,Female,Master,23.15,Bronze,0
+46,61563.02,Female,PhD,122.89,Platinum,0
+54,59061.1,Female,PhD,7.65,Silver,1
+55,48690.53,Other,Bachelor,435.44,Silver,0
+36,55789.87,Other,High School,55.94,Gold,0
+25,34605.65,Other,Bachelor,1031.86,Silver,0
+65,58524.91,Male,High School,370.27,Silver,0
+62,45171.13,Other,PhD,601.47,Silver,1
+18,43446.16,Other,High School,264.54,Gold,0
+39,62698.41,Other,PhD,411.15,Bronze,0
+69,80880.03,Female,Master,1429.37,Silver,0
+34,73774.75,Other,Master,43.18,Gold,0
+24,36442.49,Male,Master,146.47,Gold,0
+42,45155.58,Female,Bachelor,757.04,Platinum,0
+62,74111.57,Male,Bachelor,51.98,Gold,0
+21,45262.69,Other,PhD,39.34,Bronze,0
+53,56630.5,Female,Master,224.35,Silver,0
+23,68250.78,Male,Bachelor,48.35,Gold,0
+48,45474.83,Other,Master,439.83,Bronze,1
+36,61580.63,Male,Bachelor,128.27,Gold,0
+61,39989.62,Male,High School,1130.23,Gold,0
+56,50979.49,Male,High School,765.08,Gold,0
+44,64796.73,Other,Master,601.5,Gold,0
+27,36105.09,Other,PhD,479.79,Gold,0
+43,66607.12,Male,Bachelor,995.59,Bronze,0
+36,59705.43,Female,Bachelor,126.2,Silver,0
+56,68287.35,Female,High School,1032.21,Silver,1
+20,63358.71,Other,High School,779.12,Silver,0
+62,80462.11,Other,PhD,689.48,Silver,0
+30,61878.37,Other,PhD,411.92,Bronze,0
+67,53558.92,Other,PhD,141.34,Platinum,0
+45,61834.46,Other,Master,275.43,Platinum,0
+37,68149.47,Female,High School,788.9,Bronze,0
+45,60732.9,Other,Master,16.15,Bronze,0
+25,60608.88,Male,High School,761.75,Gold,1
+58,49470.12,Male,High School,137.26,Gold,0
+56,50056.49,Female,Bachelor,77.92,Gold,0
+18,38960.92,Male,High School,61.48,Silver,1
+20,86243.65,Female,High School,13.81,Gold,0
+30,41342.05,Female,Master,370.73,Platinum,0
+45,49606.42,Male,High School,123.12,Silver,1
+66,49223.89,Other,Master,2274.95,Gold,0
+42,73423.87,Male,PhD,427.17,Silver,1
+50,55575.75,Male,High School,74.18,Platinum,0
+55,78716.13,Female,High School,583.6,Gold,0
+23,49897.64,Male,Master,1140.14,Platinum,1
+61,64184.91,Female,PhD,683.6,Platinum,0
+62,47469.79,Other,Bachelor,39.76,Platinum,0
+49,92177.24,Other,PhD,1131.13,Gold,0
+62,42186.02,Other,Master,789.77,Bronze,1
+64,64647.31,Male,PhD,86.17,Gold,1
+38,69506.65,Female,Master,26.59,Platinum,0
+33,66206.99,Other,Master,407.44,Gold,0
+38,57220.69,Female,Bachelor,84.82,Platinum,1
+28,58052.69,Female,High School,899.67,Bronze,0
+54,60657.17,Other,Master,221.84,Silver,0
+53,57794.97,Other,Master,1220.31,Bronze,0
+52,74458.19,Female,Bachelor,417.0,Bronze,0
+36,93157.85,Other,Master,100.86,Silver,0
+37,51637.62,Female,High School,75.18,Gold,0
+35,39452.96,Female,Bachelor,429.57,Silver,0
+64,58675.77,Other,High School,717.5,Gold,1
+58,98695.64,Male,High School,760.5,Gold,0
+66,47944.88,Other,Bachelor,161.31,Platinum,0
+31,84586.75,Male,Master,114.23,Platinum,0
+32,85165.51,Female,High School,8.45,Silver,0
+48,51696.18,Female,High School,568.47,Bronze,0
+18,68534.75,Male,High School,39.83,Silver,0
+20,84425.95,Female,High School,273.02,Gold,0
+33,54313.08,Male,Bachelor,460.25,Platinum,1
+40,56946.29,Male,Bachelor,1383.18,Silver,0
+28,51274.79,Female,PhD,186.84,Silver,0
+29,44778.65,Male,PhD,143.69,Platinum,0
+27,50260.84,Other,High School,530.89,Platinum,1
+49,41640.9,Other,Master,482.79,Platinum,0
+33,60511.25,Female,High School,201.82,Gold,0
+25,48450.4,Female,Master,1316.25,Platinum,0
+55,63506.79,Male,High School,931.72,Bronze,0
+29,36661.57,Male,PhD,126.79,Silver,0
+41,64963.2,Male,PhD,136.65,Platinum,0
+45,72502.93,Male,Master,359.03,Platinum,1
+25,30093.97,Other,High School,742.66,Gold,1
+45,65610.85,Other,Master,22.52,Gold,0
+53,78415.03,Female,PhD,591.0,Silver,1
+43,41855.38,Male,High School,522.4,Bronze,0
+25,85088.59,Male,High School,131.64,Silver,0
+67,66285.29,Female,Master,571.84,Platinum,0
+45,49424.82,Male,Bachelor,1408.23,Bronze,0
+45,59163.46,Male,Master,23.96,Bronze,1
+54,68374.9,Male,PhD,192.58,Bronze,0
+58,61140.08,Male,PhD,288.28,Bronze,0
+53,68081.34,Male,PhD,1147.61,Silver,0
+44,46189.9,Female,PhD,1638.54,Gold,0
+34,62540.41,Male,PhD,293.6,Gold,0
+26,38794.28,Female,Bachelor,693.2,Platinum,0
+50,58331.61,Male,High School,379.28,Gold,0
+37,46441.39,Other,Master,385.86,Gold,1
+30,48967.05,Other,Master,162.93,Gold,1
+45,78541.4,Other,PhD,122.28,Gold,0
+65,76369.65,Other,Master,169.84,Platinum,1
+46,69137.07,Female,PhD,406.33,Silver,0
+30,43615.31,Female,Bachelor,14.79,Bronze,0
+63,55253.87,Male,Bachelor,1188.92,Gold,0
+52,78196.47,Other,High School,84.97,Silver,0
+23,62125.75,Female,Bachelor,124.29,Gold,0
+35,94789.94,Male,Bachelor,365.19,Gold,0
+68,65899.77,Male,High School,619.14,Bronze,0
+22,62880.74,Female,Master,50.31,Bronze,0
+64,55363.25,Other,PhD,191.14,Bronze,0
+42,62003.11,Male,PhD,1731.66,Gold,0
+19,57712.95,Other,Master,152.14,Gold,0
+27,70621.63,Other,High School,187.75,Gold,0
+47,74350.53,Other,Master,905.47,Bronze,0
+67,48210.16,Male,Bachelor,25.76,Platinum,0
+62,40031.51,Other,High School,312.38,Silver,0
+22,32456.92,Male,High School,238.71,Platinum,1
+50,67619.87,Other,High School,190.33,Gold,0
+18,43449.5,Male,PhD,168.23,Gold,0
+35,27706.64,Other,Master,47.91,Platinum,0
+49,65828.68,Female,High School,189.04,Gold,1
+64,97394.99,Other,High School,22.0,Silver,0
+66,59908.94,Other,High School,759.26,Gold,0
+28,72577.36,Male,Master,253.94,Silver,1
+38,61227.44,Male,PhD,293.41,Platinum,0
+43,58516.66,Other,Bachelor,1120.25,Platinum,0
+42,73786.15,Female,PhD,536.55,Gold,0
+39,55645.88,Female,High School,4.05,Silver,0
+44,64010.88,Male,PhD,1433.89,Gold,0
+66,64825.47,Female,PhD,135.34,Bronze,0
+30,49978.64,Other,Bachelor,56.93,Bronze,0
+50,74880.64,Male,Master,730.79,Bronze,0
+51,57375.6,Other,Master,347.05,Bronze,0
+58,48663.82,Male,PhD,284.38,Gold,0
+52,68047.65,Male,PhD,143.51,Bronze,0
+18,46522.98,Male,Master,396.45,Silver,1
+38,60422.72,Male,Master,160.37,Platinum,0
+65,59863.22,Female,Bachelor,1159.27,Platinum,1
+23,76288.43,Other,High School,121.17,Bronze,0
+45,67120.47,Other,PhD,1078.62,Bronze,0
+34,59624.6,Other,Master,409.82,Bronze,0
+22,72266.49,Male,PhD,881.55,Gold,0
+48,80853.11,Female,PhD,623.87,Platinum,0
+22,68367.15,Other,Master,596.51,Bronze,0
+55,60155.29,Female,Bachelor,196.04,Silver,1
+20,40322.46,Male,PhD,133.22,Bronze,0
+40,44023.3,Other,Bachelor,118.42,Platinum,0
+54,55421.63,Female,Master,973.13,Bronze,0
+54,50857.32,Male,High School,858.59,Platinum,1
+27,57195.43,Female,High School,290.42,Bronze,0
+27,60849.75,Other,PhD,71.01,Silver,0
+36,67945.39,Other,Master,240.84,Bronze,0
+34,58942.52,Male,Bachelor,482.93,Silver,0
+38,67297.52,Male,PhD,302.94,Silver,0
+31,60967.12,Male,Master,757.49,Bronze,0
+26,30368.0,Female,Master,3020.92,Silver,0
+63,45909.97,Female,Bachelor,106.06,Gold,0
+18,57838.69,Female,PhD,307.77,Bronze,0
+68,41854.58,Male,Master,281.92,Bronze,0
+62,68998.93,Other,Master,181.56,Silver,1
+30,82961.26,Other,Master,110.38,Silver,0
+21,78281.43,Female,Bachelor,33.97,Bronze,0
+18,56798.36,Female,PhD,1090.71,Gold,0
+66,82360.89,Other,PhD,272.23,Silver,0
+57,62230.01,Other,PhD,343.48,Silver,1
+49,54943.71,Female,PhD,1244.11,Platinum,0
+51,50798.96,Female,High School,748.7,Gold,0
+45,55462.95,Other,High School,69.92,Gold,0
+48,54177.35,Male,PhD,416.69,Bronze,1
+25,62556.24,Female,Bachelor,291.92,Gold,0
+56,62408.61,Other,High School,797.79,Bronze,0
+43,60045.69,Other,Master,644.1,Platinum,1
+51,66554.07,Other,High School,586.25,Gold,0
+20,77859.69,Other,Master,208.17,Silver,0
+67,74243.31,Male,PhD,817.28,Platinum,0
+29,37726.53,Other,High School,26.91,Bronze,0
+18,21691.18,Female,Bachelor,86.95,Platinum,0
+61,74014.8,Male,High School,204.45,Bronze,0
+22,39496.82,Other,High School,39.96,Platinum,1
+47,56628.52,Male,High School,133.94,Bronze,0
+47,42448.3,Female,PhD,886.42,Gold,0
+34,32970.29,Other,Bachelor,1480.68,Silver,0
+65,68121.94,Female,High School,181.64,Bronze,0
+64,71387.33,Other,Bachelor,153.61,Platinum,0
+40,51352.34,Other,PhD,164.18,Bronze,0
+32,21134.37,Other,Master,162.67,Bronze,0
+54,51806.33,Other,High School,18.3,Bronze,0
+38,65877.06,Other,Bachelor,1308.08,Platinum,1
+31,37816.33,Male,Bachelor,120.21,Silver,1
+19,62750.4,Other,PhD,272.37,Gold,0
+28,59770.35,Other,High School,4.87,Silver,0
+68,68689.37,Male,Master,975.81,Bronze,0
+56,61793.71,Male,Bachelor,656.81,Platinum,0
+55,45403.97,Male,High School,1466.44,Silver,0
+51,77948.57,Male,Master,760.75,Bronze,0
+55,57622.06,Male,Bachelor,188.22,Gold,0
+67,59590.43,Male,Bachelor,142.43,Gold,0
+51,46000.98,Other,Master,598.19,Gold,0
+35,53350.77,Other,Master,226.37,Bronze,0
+47,46727.96,Female,PhD,417.6,Platinum,0
+32,57405.81,Other,High School,3.14,Silver,0
+44,85675.63,Other,High School,31.94,Gold,0
+68,39421.48,Male,PhD,383.25,Bronze,0
+51,35796.58,Male,Bachelor,417.44,Bronze,1
+69,82067.55,Other,Master,696.06,Silver,0
+55,56860.14,Female,Master,70.76,Gold,0
+50,49963.91,Male,Master,359.93,Bronze,0
+41,75598.57,Other,Bachelor,108.11,Silver,1
+32,50915.77,Other,Master,48.91,Platinum,0
+47,87390.15,Female,Master,264.24,Platinum,0
+59,70168.89,Female,PhD,89.17,Platinum,1
+68,52681.33,Male,Bachelor,125.37,Gold,1
+34,92359.62,Female,High School,191.04,Silver,1
+22,50914.28,Other,PhD,150.14,Silver,1
+46,71131.43,Other,PhD,45.83,Bronze,1
+21,64489.39,Female,High School,47.11,Bronze,0
+27,79526.12,Female,PhD,107.37,Bronze,0
+34,83422.67,Female,Bachelor,25.94,Silver,0
+27,60480.06,Female,Master,492.36,Bronze,0
+34,48698.73,Male,Bachelor,169.37,Silver,0
+37,66899.58,Female,High School,164.08,Silver,0
+41,49834.27,Male,High School,201.73,Platinum,0
+22,90200.81,Other,PhD,543.53,Bronze,0
+51,62048.03,Female,Bachelor,1022.55,Platinum,0
+23,54520.18,Male,Bachelor,711.66,Gold,0
+19,62770.2,Female,High School,650.11,Gold,0
+30,39793.11,Other,Bachelor,331.2,Gold,0
+60,45425.79,Other,High School,591.77,Silver,0
+60,78006.21,Other,Bachelor,402.33,Silver,0
+65,50146.59,Female,Bachelor,121.83,Silver,0
+28,44296.34,Female,Bachelor,116.97,Bronze,0
+68,68049.79,Male,High School,175.77,Platinum,0
+64,77785.56,Other,PhD,1208.45,Silver,0
+40,70784.3,Female,Bachelor,396.39,Platinum,0
+33,74940.72,Other,High School,661.95,Platinum,1
+48,48648.07,Other,High School,212.75,Platinum,0
+28,38672.84,Male,Bachelor,261.88,Bronze,0
+33,82520.0,Male,Bachelor,67.09,Bronze,0
+25,55159.8,Male,PhD,93.95,Gold,0
+21,56237.5,Male,High School,878.26,Gold,0
+57,79922.91,Other,High School,439.54,Platinum,0
+21,68343.45,Male,Master,205.89,Gold,0
+42,66838.32,Male,High School,811.9,Platinum,0
+20,92475.04,Male,PhD,141.53,Bronze,0
+49,50347.23,Male,Master,1865.53,Bronze,0
+20,73917.6,Other,Master,211.42,Bronze,0
+44,60855.2,Male,Master,205.72,Silver,1
+46,64028.88,Other,Bachelor,186.92,Platinum,0
+49,82927.03,Female,Bachelor,65.12,Bronze,0
+67,67617.54,Other,High School,58.91,Platinum,0
+68,68074.44,Other,Master,522.21,Gold,0
+36,76087.61,Male,PhD,1040.19,Gold,0
+38,54525.71,Female,Bachelor,781.56,Bronze,0
+22,47411.85,Female,PhD,76.06,Platinum,1
+35,44327.86,Female,PhD,394.37,Bronze,0
+45,30504.65,Female,Bachelor,55.8,Gold,1
+59,90843.11,Other,Bachelor,23.18,Bronze,0
+39,43451.87,Female,Bachelor,534.12,Platinum,1
+38,56681.2,Other,Bachelor,383.02,Gold,0
+23,55847.8,Other,Master,42.79,Silver,0
+18,64611.1,Other,Master,17.78,Gold,0
+22,72236.06,Female,Master,2290.55,Silver,0
+58,72907.1,Male,Master,15.24,Bronze,1
+29,51253.84,Male,High School,293.97,Bronze,0
+43,57493.17,Female,Master,351.21,Platinum,0
+63,64238.7,Male,Bachelor,62.37,Silver,0
+51,56269.63,Male,PhD,92.6,Bronze,0
+66,84110.18,Other,Master,216.78,Silver,0
+31,67364.62,Other,High School,717.06,Bronze,0
+43,71023.17,Female,Bachelor,353.71,Gold,0
+62,69943.22,Female,PhD,507.92,Bronze,1
+44,77602.11,Male,PhD,2105.71,Platinum,0
+26,62715.32,Other,Master,730.52,Gold,0
+43,40547.52,Female,PhD,284.9,Platinum,0
+64,65995.32,Female,Master,295.69,Gold,0
+39,50229.65,Female,Master,482.18,Silver,0
+64,52070.75,Female,Bachelor,547.36,Platinum,0
+47,68795.46,Female,Bachelor,347.29,Bronze,0
+60,78574.25,Female,High School,517.62,Silver,0
+65,60319.07,Male,Bachelor,11.91,Bronze,1
+34,64632.5,Other,Bachelor,280.73,Gold,0
+43,85533.22,Other,Master,163.52,Gold,0
+53,63611.3,Female,Bachelor,69.16,Bronze,1
+18,99025.25,Other,Master,52.43,Bronze,1
+25,68482.64,Other,Master,462.15,Silver,0
+66,33588.56,Other,Bachelor,370.75,Bronze,0
+52,71300.12,Female,High School,146.24,Platinum,0
+69,65717.38,Female,High School,318.34,Platinum,1
+32,79346.29,Other,PhD,338.87,Bronze,1
+64,70097.72,Other,PhD,108.46,Platinum,0
+39,57923.16,Female,Bachelor,527.91,Bronze,0
+31,41635.53,Male,High School,759.16,Silver,0
+43,56864.65,Other,Master,783.82,Platinum,0
+45,47242.19,Male,PhD,461.24,Platinum,0
+40,51292.15,Other,Master,358.35,Bronze,0
+31,68828.68,Male,PhD,31.47,Platinum,1
+41,85048.57,Male,Bachelor,169.72,Gold,0
+19,65920.07,Male,High School,48.96,Silver,0
+62,42061.75,Female,PhD,1659.67,Silver,0
+43,66669.04,Male,High School,72.56,Platinum,0
+31,77949.47,Male,Master,82.3,Platinum,0
+68,50853.26,Male,Bachelor,1101.72,Gold,0
+24,57989.74,Other,High School,1440.56,Gold,0
+20,60220.32,Male,Bachelor,725.85,Platinum,1
+64,48226.53,Other,High School,2.71,Platinum,0
+40,69724.21,Male,Master,0.67,Gold,0
+63,58185.78,Male,Master,237.49,Bronze,0
+60,66292.99,Female,Bachelor,77.39,Gold,0
+64,46687.62,Other,Master,9.28,Bronze,0
+62,53438.13,Male,PhD,311.87,Silver,0
+35,70835.72,Other,High School,1432.9,Silver,0
+55,54407.5,Other,Master,195.65,Gold,0
