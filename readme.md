@@ -32,7 +32,7 @@ A powerful, interactive desktop dashboard built with **PyQt5**, **Matplotlib**, 
 
 ```bash
 git clone https://github.com/rachits999003/data-analysis-and-analytic-tool.git
-cd data-analytics-dashboard
+cd data-analysis-and-analytic-tool
 ```
 
 2. Install dependencies:
