@@ -70,38 +70,6 @@ class DataAnalyticsDashboard(QMainWindow):
                 color: #000000; 
             }
         """)
-
-        # self.setStyleSheet("""
-        #     QMainWindow { background-color: #f0f0f0; }
-        #     QWidget { font-family: 'Segoe UI', Arial, sans-serif; }
-        #     QPushButton { 
-        #         background-color: #4CAF50; 
-        #         border: none; 
-        #         color: white; 
-        #         padding: 8px 16px; 
-        #         border-radius: 4px;
-        #         font-weight: bold;
-        #     }
-        #     QPushButton:hover { background-color: #45a049; }
-        #     QPushButton:pressed { background-color: #3d8b40; }
-        #     QComboBox, QCheckBox { 
-        #         padding: 5px; 
-        #         border: 1px solid #ddd;
-        #         border-radius: 4px;
-        #     }
-        #     QTabWidget::pane { border: 1px solid #ddd; }
-        #     QTabBar::tab { 
-        #         background-color: #e0e0e0; 
-        #         padding: 8px 12px; 
-        #         margin-right: 2px;
-        #         border-top-left-radius: 4px;
-        #         border-top-right-radius: 4px;
-        #     }
-        #     QTabBar::tab:selected { 
-        #         background-color: #4CAF50; 
-        #         color: white; 
-        #     }
-        # """)
         
         self.init_ui()
         
