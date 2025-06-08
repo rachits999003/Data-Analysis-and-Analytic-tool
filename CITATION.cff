@@ -1,0 +1,8 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- given-names: Rachit Sharma
+orcid: https://orcid.org/0000-0000-0000-0000
+title:rachits999003/Data-Analysis-and-Analytic-tool: For DOI
+version: pre-release
+date-released: 2025-06-08
