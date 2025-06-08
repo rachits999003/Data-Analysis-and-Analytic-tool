@@ -1,6 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15618446.svg)](https://doi.org/10.5281/zenodo.15618446)
-
-
+d
 # 📊 Advanced Data Analytics Dashboard
 
 A powerful, interactive desktop dashboard built with **PyQt5**, **Matplotlib**, **Seaborn**, **Plotly**, and **scikit-learn**. Designed for data wrangling, visualization, and machine learning—all in one elegant dark-themed GUI.
@@ -52,9 +50,11 @@ python data_dashboard.py
 ## 📸 Screenshots
 
 <!-- Replace these with actual images -->
-<!--![Dashboard Home](screenshots/dashboard_home.png)
-![Visualization Tab](screenshots/visualizations.png)
-![Machine Learning](screenshots/ml_results.png)-->
+![Dashboard Home](screenshots/Home.png) 
+![Analytics Tab](screenshots/Analytics.png)
+![Visualization Tab - Histogram](screenshots/Histogram.png)
+![Visualization Tab - Pair plot](screenshots/Pair_plot.png)
+![Machine Learning](screenshots/Machine_Learning.png)
 
 ## 🧠 Bonus
 
