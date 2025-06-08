@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15618446.svg)](https://doi.org/10.5281/zenodo.15618446)
 
 # 📊 Advanced Data Analytics Dashboard
 
