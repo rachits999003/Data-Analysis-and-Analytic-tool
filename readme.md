@@ -1,5 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15618446.svg)](https://doi.org/10.5281/zenodo.15618446)
 
+
 # 📊 Advanced Data Analytics Dashboard
 
 A powerful, interactive desktop dashboard built with **PyQt5**, **Matplotlib**, **Seaborn**, **Plotly**, and **scikit-learn**. Designed for data wrangling, visualization, and machine learning—all in one elegant dark-themed GUI.
