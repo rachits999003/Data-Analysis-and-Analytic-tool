@@ -3,6 +3,7 @@
 
 A powerful, interactive desktop dashboard built with **PyQt5**, **Matplotlib**, **Seaborn**, **Plotly**, and **scikit-learn**. Designed for data wrangling, visualization, and machine learning—all in one elegant dark-themed GUI.
 
+<!--  Others -->
 ## ⚙ Features
 
 - 🗂 Load CSV/Excel datasets
