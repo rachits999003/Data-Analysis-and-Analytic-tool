@@ -35,7 +35,7 @@ jobs:
           --onefile ^
           --enable-plugin=qt-plugins ^
           --include-qt-plugins=all ^
-          --enable-plugin=pyqt5 ^
+          --enable-plugin=qt5 ^
           --windows-icon-from-ico=IconD.ico ^
           --output-filename=data-tool.exe
 
