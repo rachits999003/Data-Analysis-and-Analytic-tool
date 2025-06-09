@@ -1,8 +1,13 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- full-name: Rachit Sharma
-orcid: https://orcid.org/0000-0000-0000-0000
-title:rachits999003/Data-Analysis-and-Analytic-tool: An open source data  analysis tool.
-version: pre-release
+  - family-names: Sharma
+    given-names: Rachit
+    orcid: "https://orcid.org/0009-0004-0461-9836"
+title: "Data Analysis and Analytic Tool"
+url: "https://github.com/rachits999003/Data-Analysis-and-Analytic-tool"
+repository-code: "https://github.com/rachits999003/Data-Analysis-and-Analytic-tool"
+abstract: "An open source data analysis tool."
+version: "pre-release"
 date-released: 2025-06-08
+license: MIT
