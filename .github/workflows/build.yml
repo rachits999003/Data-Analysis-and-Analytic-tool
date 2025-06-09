@@ -4,6 +4,8 @@ on:
   push:
     tags:
       - 'v*'  # Only trigger on version tags like v1.0, v2.3
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -25,7 +27,8 @@ jobs:
         pip install -r requirements.txt
 
     - name: Build EXE
-      run: pyinstaller --onefile --windowed --name data-tool data_dashboard.py
+      run: pyinstaller --onefile --windowed --icon="IconD.png" --name data-tool data_dashboard.py
+
 
     - name: Upload EXE to release
       uses: softprops/action-gh-release@v1
