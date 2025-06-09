@@ -33,8 +33,7 @@ jobs:
         python -m nuitka data_dashboard.py ^
           --standalone ^
           --onefile ^
-          --enable-plugin=qt-plugins ^
-          --include-qt-plugins=sensible ^
+          --enable-plugin=pyside2 ^
           --windows-icon-from-ico=IconD.ico ^
           --output-filename=data-tool.exe ^
           --assume-yes-for-downloads
