@@ -33,7 +33,7 @@ class DataAnalyticsDashboard(QMainWindow):
         self.setWindowTitle("Advanced Data Analytics Dashboard")
         self.setGeometry(100, 100, 1400, 900)
         self.setStyleSheet("""
-            QMainWindow { background-color: #121212; }
+            QMainWindow { background-color: #000000; }
             QWidget { font-family: 'Segoe UI', Arial, sans-serif; color: #777777; }
 
             QPushButton { 
